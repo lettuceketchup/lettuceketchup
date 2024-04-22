@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Didn't even know this was possible until I saw it on someone's profile. Pretty neat!
+🌱 Will update later...
+
 <!--
 **lettuceketchup/lettuceketchup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
