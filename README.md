@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 Didn't even know this was possible until I saw it on someone's profile. Pretty neat!
 🌱 Will update later...
