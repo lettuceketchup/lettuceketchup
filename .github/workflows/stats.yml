@@ -1,0 +1,23 @@
+name: Profile stats cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      # pinned to the "release" tag as of 2026-10-25
+      - uses: vn7n24fzkq/github-profile-summary-cards@7022eb6bd48de38b092f54110a8ff8185f2ac4a1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          TIME_ZONE: "Asia/Kolkata"
+          THEME: "transparent"
