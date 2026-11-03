@@ -10,3 +10,10 @@ I'm based in Bengaluru and I build small tools for things I actually use: e-read
 - 🎛️ **[tv-quick-settings](https://github.com/lettuceketchup/tv-quick-settings)**: a quick-settings overlay for Android TV (backlight, picture, sound).
 - 💸 **[actual-ai](https://github.com/lettuceketchup/actual-ai)** / **[actual-export](https://github.com/lettuceketchup/actual-export)**: AI transaction categorisation and Excel export for Actual Budget.
 - 📚 **[ranobes-scraper](https://github.com/lettuceketchup/ranobes-scraper)**: turns web novels into .epub files.
+
+#### Stats
+
+<p>
+  <img height="160" src="./profile-summary-card-output/transparent/3-stats.svg" alt="GitHub stats" />
+  <img height="160" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most-committed languages" />
+</p>
