@@ -1,20 +1,20 @@
-### Hey there 👋
+### Hey, I'm Pradhumn 👋
 
-Didn't even know this was possible until I saw it on someone's profile. Pretty neat!
+I'm based in Bengaluru and I build small tools for things I actually use: e-readers, Android TVs, my home media server, budgeting, and Claude Code.
 
-🌱 Will update later...
+#### Things I've built
 
-<!--
-**lettuceketchup/lettuceketchup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 **[magium-koreader](https://github.com/lettuceketchup/magium-koreader)**: play the Magium text CYOA on a Kindle via KOReader, with all 3 books, saves, stats, and achievements.
+- 🤖 **[claude-mods](https://github.com/lettuceketchup/claude-mods)**: my Claude Code plugin marketplace (crew, meter).
+- 📺 **[tv-debloat](https://github.com/lettuceketchup/tv-debloat)**: reversibly debloat Hisense and Haier Android TVs over adb.
+- 🎛️ **[tv-quick-settings](https://github.com/lettuceketchup/tv-quick-settings)**: a quick-settings overlay for Android TV (backlight, picture, sound).
+- 💸 **[actual-ai](https://github.com/lettuceketchup/actual-ai)** / **[actual-export](https://github.com/lettuceketchup/actual-export)**: AI transaction categorisation and Excel export for Actual Budget.
+- 📚 **[ranobes-scraper](https://github.com/lettuceketchup/ranobes-scraper)**: turns web novels into .epub files.
 
-Here are some ideas to get you started:
+#### Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lettuceketchup&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lettuceketchup&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+<img height="165" src="https://streak-stats.demolab.com?user=lettuceketchup&theme=transparent&hide_border=true" alt="GitHub streak" />
